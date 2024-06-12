@@ -2317,7 +2317,26 @@
 			dependencies = (
 				F8D94C812B9ABFE20081A3C4 /* PBXTargetDependency */,
 			);
-			name = "AirportItlwm-Sonoma14.4";
+			name = "AirportItlwm-Sequoia15.0";
+			productName = AirportItlwm;
+			productReference = F8D94CF52B9ABFE20081A3C4 /* AirportItlwm.kext */;
+			productType = "com.apple.product-type.kernel-extension";
+		};
+		F8D94C802B9ABFE20081A3C4 /* AirportItlwm-Sequoia15.0 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F8D94CF22B9ABFE20081A3C4 /* Build configuration list for PBXNativeTarget "AirportItlwm-Sequoia15.0" */;
+			buildPhases = (
+				F8D94C832B9ABFE20081A3C4 /* Headers */,
+				F8D94CA52B9ABFE20081A3C4 /* Sources */,
+				F8D94CEF2B9ABFE20081A3C4 /* Frameworks */,
+				F8D94CF12B9ABFE20081A3C4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F8D94C812B9ABFE20081A3C4 /* PBXTargetDependency */,
+			);
+			name = "AirportItlwm-Sequoia15.0";
 			productName = AirportItlwm;
 			productReference = F8D94CF52B9ABFE20081A3C4 /* AirportItlwm.kext */;
 			productType = "com.apple.product-type.kernel-extension";
